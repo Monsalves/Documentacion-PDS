@@ -1,0 +1,15 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de editores
+.vscode/
+*.swp
+*.sublime-workspace
+*.sublime-project
+
+# Node / dependencias (si las hubiera)
+node_modules/
+
+# Archivos temporales de Docsify / caché
+docs/.DS_Store
