@@ -1,2 +1,2 @@
-- [Problema & Contexto](./mds/problema.md)
-- [Objetivos & Requisitos](./mds/requisitos.md)
+- [1. Problema & Contexto](./mds/problema.md)
+- [2. Metodología & Herramientas](./mds/herramientas.md)

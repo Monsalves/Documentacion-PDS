@@ -1,6 +1,7 @@
 # Documentación Proyecto Desarrollo de Software
 
 Integrantes:
->Felipe Monsalves
+>**Felipe Monsalves Jiménez**
 
->Fabián Matus
+>**Fabián Matus Alarcón**
+
